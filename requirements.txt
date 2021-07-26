@@ -3,4 +3,4 @@ pandas==1.1.5
 matplotlib==3.2.2
 seaborn==0.11.1
 scikit-learn==0.24.2
-streamlit==8.83.2
+streamlit==0.83.0
